@@ -1,0 +1,3005 @@
+[{
+    "MethodInfo": {
+        "Name": "PauseGameToggle",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PauseGameToggle()",
+        "Signature2": "System.Void PauseGameToggle()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "PauseGame",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PauseGame()",
+        "Signature2": "System.Void PauseGame()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "UnpauseGame",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void UnpauseGame()",
+        "Signature2": "System.Void UnpauseGame()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "PauseSound",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PauseSound()",
+        "Signature2": "System.Void PauseSound()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "UnpauseSound",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void UnpauseSound()",
+        "Signature2": "System.Void UnpauseSound()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "PauseSoundToggle",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PauseSoundToggle()",
+        "Signature2": "System.Void PauseSoundToggle()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "SetSoundVolume",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void SetSoundVolume(Single)",
+        "Signature2": "System.Void SetSoundVolume(System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217747,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "SetSoundVolume",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void SetSoundVolume(Single)",
+            "Signature2": "System.Void SetSoundVolume(System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "volume",
+        "Position": 0,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "SoundVolumeStepChange",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void SoundVolumeStepChange(Single)",
+        "Signature2": "System.Void SoundVolumeStepChange(System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217748,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "SoundVolumeStepChange",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void SoundVolumeStepChange(Single)",
+            "Signature2": "System.Void SoundVolumeStepChange(System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "step",
+        "Position": 0,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "Reset",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void Reset()",
+        "Signature2": "System.Void Reset()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "Stop",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void Stop()",
+        "Signature2": "System.Void Stop()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "PlayVideo",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+        "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "MetadataToken": 134217773,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "videoslug",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217774,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "vttslug",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217775,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217776,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "id",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217777,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "selector",
+        "Position": 4,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "PlayAudio",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+        "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "MetadataToken": 134217778,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "audioslug",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217779,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "vttslug",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217780,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217781,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "id",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217782,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "selector",
+        "Position": 4,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "LoadVideo",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+        "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "MetadataToken": 134217783,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "videoslug",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217784,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "vttslug",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217785,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217786,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "id",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217787,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "selector",
+        "Position": 4,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "LoadAudio",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+        "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "MetadataToken": 134217788,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "audioslug",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217789,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "vttslug",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217790,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217791,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "id",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217792,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "selector",
+        "Position": 4,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CreateVideoTexture",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CreateVideoTexture(System.String, Single)",
+        "Signature2": "System.Void CreateVideoTexture(System.String, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217836,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CreateVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CreateVideoTexture(System.String, Single)",
+            "Signature2": "System.Void CreateVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "gameobject",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217837,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CreateVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CreateVideoTexture(System.String, Single)",
+            "Signature2": "System.Void CreateVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 1,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "StartVideoTexture",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void StartVideoTexture(System.String, Single)",
+        "Signature2": "System.Void StartVideoTexture(System.String, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217838,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "StartVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void StartVideoTexture(System.String, Single)",
+            "Signature2": "System.Void StartVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "gameobject",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217839,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "StartVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void StartVideoTexture(System.String, Single)",
+            "Signature2": "System.Void StartVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 1,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "StopVideoTexture",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void StopVideoTexture(System.String, Single)",
+        "Signature2": "System.Void StopVideoTexture(System.String, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217840,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "StopVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void StopVideoTexture(System.String, Single)",
+            "Signature2": "System.Void StopVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "gameobject",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217841,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "StopVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void StopVideoTexture(System.String, Single)",
+            "Signature2": "System.Void StopVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 1,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraZoom",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraZoom(Single, Single)",
+        "Signature2": "System.Void CameraZoom(System.Single, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217842,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraZoom",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraZoom(Single, Single)",
+            "Signature2": "System.Void CameraZoom(System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "zoom",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217843,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraZoom",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraZoom(Single, Single)",
+            "Signature2": "System.Void CameraZoom(System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 1,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraSetProperty",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraSetProperty(System.String, System.Object, Single)",
+        "Signature2": "System.Void CameraSetProperty(System.String, System.Object, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217844,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraSetProperty",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraSetProperty(System.String, System.Object, Single)",
+            "Signature2": "System.Void CameraSetProperty(System.String, System.Object, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "property",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217845,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraSetProperty",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraSetProperty(System.String, System.Object, Single)",
+            "Signature2": "System.Void CameraSetProperty(System.String, System.Object, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "value",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217846,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraSetProperty",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraSetProperty(System.String, System.Object, Single)",
+            "Signature2": "System.Void CameraSetProperty(System.String, System.Object, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 2,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraTransform",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+        "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217847,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraTransform",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+            "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "position",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217848,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraTransform",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+            "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "rotation",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217849,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraTransform",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+            "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "scalef",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217850,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraTransform",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+            "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "delta",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217851,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraTransform",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+            "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 4,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraGetInfo",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraGetInfo(Single)",
+        "Signature2": "System.Void CameraGetInfo(System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217852,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraGetInfo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraGetInfo(Single)",
+            "Signature2": "System.Void CameraGetInfo(System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 0,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraRotate2d",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraRotate2d(System.String, Single, Single, Single)",
+        "Signature2": "System.Void CameraRotate2d(System.String, System.Single, System.Single, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217853,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraRotate2d",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraRotate2d(System.String, Single, Single, Single)",
+            "Signature2": "System.Void CameraRotate2d(System.String, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "camera",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217854,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraRotate2d",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraRotate2d(System.String, Single, Single, Single)",
+            "Signature2": "System.Void CameraRotate2d(System.String, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "degrees",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 1.0,
+        "RawDefaultValue": 1.0,
+        "MetadataToken": 134217855,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraRotate2d",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraRotate2d(System.String, Single, Single, Single)",
+            "Signature2": "System.Void CameraRotate2d(System.String, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "duration",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217856,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraRotate2d",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraRotate2d(System.String, Single, Single, Single)",
+            "Signature2": "System.Void CameraRotate2d(System.String, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 3,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraBlend",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+        "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217857,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "camera",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217858,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "fromcamera",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217859,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "tocamera",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 1.0,
+        "RawDefaultValue": 1.0,
+        "MetadataToken": 134217860,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "duration",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217861,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "start",
+        "Position": 4,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 1.0,
+        "RawDefaultValue": 1.0,
+        "MetadataToken": 134217862,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "stop",
+        "Position": 5,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217863,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 6,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "SendInfoToHost",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void SendInfoToHost()",
+        "Signature2": "System.Void SendInfoToHost()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "Log",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void Log(System.String)",
+        "Signature2": "System.Void Log(System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217899,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "Log",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void Log(System.String)",
+            "Signature2": "System.Void Log(System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "s",
+        "Position": 0,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "BlendCamerasJson",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.GameObjectControl",
+        "Signature": "Void BlendCamerasJson(System.String)",
+        "Signature2": "System.Void BlendCamerasJson(System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134218062,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "BlendCamerasJson",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.GameObjectControl",
+            "Signature": "Void BlendCamerasJson(System.String)",
+            "Signature2": "System.Void BlendCamerasJson(System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "message",
+        "Position": 0,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "PauseGameToggle",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PauseGameToggle()",
+        "Signature2": "System.Void PauseGameToggle()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "PauseGame",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PauseGame()",
+        "Signature2": "System.Void PauseGame()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "UnpauseGame",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void UnpauseGame()",
+        "Signature2": "System.Void UnpauseGame()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "PauseSound",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PauseSound()",
+        "Signature2": "System.Void PauseSound()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "UnpauseSound",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void UnpauseSound()",
+        "Signature2": "System.Void UnpauseSound()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "PauseSoundToggle",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PauseSoundToggle()",
+        "Signature2": "System.Void PauseSoundToggle()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "SetSoundVolume",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void SetSoundVolume(Single)",
+        "Signature2": "System.Void SetSoundVolume(System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217747,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "SetSoundVolume",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void SetSoundVolume(Single)",
+            "Signature2": "System.Void SetSoundVolume(System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "volume",
+        "Position": 0,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "SoundVolumeStepChange",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void SoundVolumeStepChange(Single)",
+        "Signature2": "System.Void SoundVolumeStepChange(System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217748,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "SoundVolumeStepChange",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void SoundVolumeStepChange(Single)",
+            "Signature2": "System.Void SoundVolumeStepChange(System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "step",
+        "Position": 0,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "Reset",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void Reset()",
+        "Signature2": "System.Void Reset()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "Stop",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void Stop()",
+        "Signature2": "System.Void Stop()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "PlayVideo",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+        "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "MetadataToken": 134217773,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "videoslug",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217774,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "vttslug",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217775,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217776,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "id",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217777,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "selector",
+        "Position": 4,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "PlayAudio",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+        "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "MetadataToken": 134217778,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "audioslug",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217779,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "vttslug",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217780,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217781,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "id",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217782,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "PlayAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void PlayAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void PlayAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "selector",
+        "Position": 4,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "LoadVideo",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+        "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "MetadataToken": 134217783,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "videoslug",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217784,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "vttslug",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217785,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217786,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "id",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217787,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadVideo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadVideo(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadVideo(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "selector",
+        "Position": 4,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "LoadAudio",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+        "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "MetadataToken": 134217788,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "audioslug",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217789,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "vttslug",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217790,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217791,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "id",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "MetadataToken": 134217792,
+        "HasDefaultValue": true,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "LoadAudio",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void LoadAudio(System.String, System.String, Single, System.String, System.String)",
+            "Signature2": "System.Void LoadAudio(System.String, System.String, System.Single, System.String, System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "selector",
+        "Position": 4,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CreateVideoTexture",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CreateVideoTexture(System.String, Single)",
+        "Signature2": "System.Void CreateVideoTexture(System.String, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217836,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CreateVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CreateVideoTexture(System.String, Single)",
+            "Signature2": "System.Void CreateVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "gameobject",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217837,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CreateVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CreateVideoTexture(System.String, Single)",
+            "Signature2": "System.Void CreateVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 1,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "StartVideoTexture",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void StartVideoTexture(System.String, Single)",
+        "Signature2": "System.Void StartVideoTexture(System.String, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217838,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "StartVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void StartVideoTexture(System.String, Single)",
+            "Signature2": "System.Void StartVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "gameobject",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217839,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "StartVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void StartVideoTexture(System.String, Single)",
+            "Signature2": "System.Void StartVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 1,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "StopVideoTexture",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void StopVideoTexture(System.String, Single)",
+        "Signature2": "System.Void StopVideoTexture(System.String, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217840,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "StopVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void StopVideoTexture(System.String, Single)",
+            "Signature2": "System.Void StopVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "gameobject",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217841,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "StopVideoTexture",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void StopVideoTexture(System.String, Single)",
+            "Signature2": "System.Void StopVideoTexture(System.String, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 1,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraZoom",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraZoom(Single, Single)",
+        "Signature2": "System.Void CameraZoom(System.Single, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217842,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraZoom",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraZoom(Single, Single)",
+            "Signature2": "System.Void CameraZoom(System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "zoom",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217843,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraZoom",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraZoom(Single, Single)",
+            "Signature2": "System.Void CameraZoom(System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 1,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraSetProperty",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraSetProperty(System.String, System.Object, Single)",
+        "Signature2": "System.Void CameraSetProperty(System.String, System.Object, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217844,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraSetProperty",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraSetProperty(System.String, System.Object, Single)",
+            "Signature2": "System.Void CameraSetProperty(System.String, System.Object, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "property",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217845,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraSetProperty",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraSetProperty(System.String, System.Object, Single)",
+            "Signature2": "System.Void CameraSetProperty(System.String, System.Object, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "value",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217846,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraSetProperty",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraSetProperty(System.String, System.Object, Single)",
+            "Signature2": "System.Void CameraSetProperty(System.String, System.Object, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 2,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraTransform",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+        "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217847,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraTransform",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+            "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "position",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217848,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraTransform",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+            "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "rotation",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217849,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraTransform",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+            "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "scalef",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217850,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraTransform",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+            "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "delta",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217851,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraTransform",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraTransform(Single[], Single[], Single[], Boolean, Single)",
+            "Signature2": "System.Void CameraTransform(System.Single[], System.Single[], System.Single[], System.Boolean, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 4,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraGetInfo",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraGetInfo(Single)",
+        "Signature2": "System.Void CameraGetInfo(System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217852,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraGetInfo",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraGetInfo(Single)",
+            "Signature2": "System.Void CameraGetInfo(System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 0,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraRotate2d",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraRotate2d(System.String, Single, Single, Single)",
+        "Signature2": "System.Void CameraRotate2d(System.String, System.Single, System.Single, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217853,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraRotate2d",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraRotate2d(System.String, Single, Single, Single)",
+            "Signature2": "System.Void CameraRotate2d(System.String, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "camera",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217854,
+        "HasDefaultValue": false,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraRotate2d",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraRotate2d(System.String, Single, Single, Single)",
+            "Signature2": "System.Void CameraRotate2d(System.String, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "degrees",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 1.0,
+        "RawDefaultValue": 1.0,
+        "MetadataToken": 134217855,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraRotate2d",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraRotate2d(System.String, Single, Single, Single)",
+            "Signature2": "System.Void CameraRotate2d(System.String, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "duration",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217856,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraRotate2d",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraRotate2d(System.String, Single, Single, Single)",
+            "Signature2": "System.Void CameraRotate2d(System.String, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 3,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "CameraBlend",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+        "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217857,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "camera",
+        "Position": 0,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217858,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "fromcamera",
+        "Position": 1,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217859,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "tocamera",
+        "Position": 2,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 1.0,
+        "RawDefaultValue": 1.0,
+        "MetadataToken": 134217860,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "duration",
+        "Position": 3,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217861,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "start",
+        "Position": 4,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 1.0,
+        "RawDefaultValue": 1.0,
+        "MetadataToken": 134217862,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "stop",
+        "Position": 5,
+        "CustomAttributes": []
+    }, {
+        "DefaultValue": 0.0,
+        "RawDefaultValue": 0.0,
+        "MetadataToken": 134217863,
+        "HasDefaultValue": true,
+        "ParameterType": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 4112,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": true,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "CameraBlend",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void CameraBlend(System.String, System.String, System.String, Single, Single, Single, Single)",
+            "Signature2": "System.Void CameraBlend(System.String, System.String, System.String, System.Single, System.Single, System.Single, System.Single)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "wait",
+        "Position": 6,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "SendInfoToHost",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void SendInfoToHost()",
+        "Signature2": "System.Void SendInfoToHost()",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": []
+}, {
+    "MethodInfo": {
+        "Name": "Log",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.Game",
+        "Signature": "Void Log(System.String)",
+        "Signature2": "System.Void Log(System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134217899,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "Log",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.Game",
+            "Signature": "Void Log(System.String)",
+            "Signature2": "System.Void Log(System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "s",
+        "Position": 0,
+        "CustomAttributes": []
+    }]
+}, {
+    "MethodInfo": {
+        "Name": "BlendCamerasJson",
+        "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "ClassName": "Esc.GameObjectControl",
+        "Signature": "Void BlendCamerasJson(System.String)",
+        "Signature2": "System.Void BlendCamerasJson(System.String)",
+        "MemberType": 8,
+        "GenericArguments": null
+    },
+    "ParametersInfo": [{
+        "DefaultValue": null,
+        "RawDefaultValue": null,
+        "MetadataToken": 134218062,
+        "HasDefaultValue": false,
+        "ParameterType": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=<<<REDACTED>>>",
+        "Attributes": 0,
+        "IsIn": false,
+        "IsLcid": false,
+        "IsOptional": false,
+        "IsOut": false,
+        "IsRetval": false,
+        "Member": {
+            "Name": "BlendCamerasJson",
+            "AssemblyName": "ESCUnity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "ClassName": "Esc.GameObjectControl",
+            "Signature": "Void BlendCamerasJson(System.String)",
+            "Signature2": "System.Void BlendCamerasJson(System.String)",
+            "MemberType": 8,
+            "GenericArguments": null
+        },
+        "Name": "message",
+        "Position": 0,
+        "CustomAttributes": []
+    }]
+}]

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 942bc764ee70f4089bfebbe26bad7e9d, type: 3}
+  m_Name: CustomData
+  m_EditorClassIdentifier: 
+  name: 
+  sheets:
+  - name: sheet1
+    editMode: 0
+    columns:
+    - type: 0
+      required: 1
+      name: aString
+      size: 0
+      minimumResolution: 
+    - type: 1
+      required: 0
+      name: aNumber
+      size: 0
+      minimumResolution: 
+    - type: 3
+      required: 0
+      name: someBoolean
+      size: 0
+      minimumResolution: 
